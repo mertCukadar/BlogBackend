@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'blog',
     'rest_framework',
     'corsheaders',
+    'gunicorn',
 ]
 
 MIDDLEWARE = [
